@@ -80,6 +80,7 @@ Plugin                                                                          
 [REX-Ray plugin](https://github.com/emccode/rexray)                                 | A volume plugin which is written in Go and provides advanced storage functionality for many platforms including VirtualBox, EC2, Google Compute Engine, OpenStack, and EMC.
 [Virtuozzo Storage and Ploop plugin](https://github.com/virtuozzo/docker-volume-ploop) | A volume plugin with support for Virtuozzo Storage distributed cloud file system as well as ploop devices.
 [VMware vSphere Storage Plugin](https://github.com/vmware/docker-volume-vsphere)    | Docker Volume Driver for vSphere enables customers to address persistent storage requirements for Docker containers in vSphere environments.
+[Zookeeper FUSE Plugin](https://github.com/ronin13/pyvolume) | Docker Volume driver, written in Python, which enables one to mount zookeeper znode hierarchal namespace inside a docker container and manipulate it similar to a regular filesystem.
 
 ### Authorization plugins
 
